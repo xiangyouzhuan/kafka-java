@@ -6,7 +6,7 @@
 ```bash
 git clone git@github.com:xiangyouzhuan/kafka-java.git
 cd kafka-java
-cd my-app1/target
+cd consumer/target
 java -jar my-app-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 
@@ -20,7 +20,7 @@ Receiving!...
 ## 运行producer程序
 ```bash
 cd kafka-java
-cd my-app/target
+cd producer/target
 java -jar my-app-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 屏幕输出
