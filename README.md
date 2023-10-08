@@ -19,7 +19,7 @@ cd kafka-java
 cd consumer
 mvn spring-boot:run
 ```
-    
+
 ## 运行producer程序
 打开另一个终端
 ```bash
@@ -31,7 +31,7 @@ mvn spring-boot:run
 ```bash
 hello!
 ```
-consumer终端显示
+producer终端显示
 ```bash
 发送消息: hello! 到my-topic
 ```
