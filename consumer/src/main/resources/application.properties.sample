@@ -1,5 +1,7 @@
 bootstrap.servers=localhost:9092
-topic=my-topic
+topic=
+
+
 group.id=test
 enable.auto.commit=true
 auto.commit.interval.ms=1000
